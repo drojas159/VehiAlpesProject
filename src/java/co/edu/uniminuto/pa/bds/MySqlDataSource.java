@@ -5,7 +5,7 @@
  */
 package co.edu.uniminuto.pa.bds;
 
-import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
+import com.mysql.cj.jdbc.MysqlDataSource;
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.logging.Level;
@@ -23,7 +23,7 @@ public class MySqlDataSource {
         ds = new MysqlDataSource();
         ds.setServerName("localhost");
         ds.setPortNumber(3306);
-        ds.setDatabaseName("prueba1");
+        ds.setDatabaseName("prueba1?useTimezone=true&serverTimezone=UTC");
         ds.setUser("root");
         ds.setPassword("root");        
     }
@@ -38,8 +38,8 @@ public class MySqlDataSource {
             
             return ds.getConnection();
             
-        } catch (SQLException ex) {
-            Logger.getLogger(MySqlDataSource.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (SQLException e) {
+            Logger.getLogger(MySqlDataSource.class.getName()).log(Level.SEVERE, null, e);
         }
         
         return null;

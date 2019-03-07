@@ -5,6 +5,7 @@
  */
 package co.edu.uniminuto.pa.bds;
 
+import com.mysql.cj.jdbc.MysqlDataSource;
 import java.sql.*;
 import javax.sql.*;
 public class Test_MySqlDataSource {
@@ -14,11 +15,11 @@ public class Test_MySqlDataSource {
     try {
 
 // Setting up the DataSource object
-      com.mysql.jdbc.jdbc2.optional.MysqlDataSource ds 
-        = new com.mysql.jdbc.jdbc2.optional.MysqlDataSource();
+      MysqlDataSource ds 
+        = new MysqlDataSource();
       ds.setServerName("localhost");
       ds.setPortNumber(3306);
-      ds.setDatabaseName("test");
+      ds.setDatabaseName("prueba1?useTimezone=true&serverTimezone=UTC");
       ds.setUser("root");
       ds.setPassword("root");
 
