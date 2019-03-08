@@ -8,7 +8,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Hosting City a Hosting Category Flat Bootstrap responsive Website Template | Home :: w3layouts</title>
+<title>Bienvenido a Vehialpes</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Hosting City Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -50,7 +50,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="w3layouts-address">
 				<ul>
 					<li><i class="fa fa-mobile" aria-hidden="true"></i> +11 222 333 4444</li>
-					<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@example.com"> mail@example.com</a></li>
+					<li><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:info@example.com"> contacto@vehialpes.com</a></li>
 				</ul>
 			</div>
 			<div class="agileinfo-social-grids">
@@ -78,7 +78,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<span class="icon-bar"></span>
 					  </button>
 						<div class="w3layouts-logo">
-							<h1><a href="index.html">Hosting <span>City</span></a></h1>
+							<h1><a href="index.html">VEHIALPES<span>vehículos</span></a></h1>
 						</div>
 					</div>
 
@@ -86,9 +86,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 						<nav>
 							<ul class="nav navbar-nav">
-								<li class="active"><a href="index.html">Home</a></li>
-								<li><a href="about.html" class="hvr-sweep-to-bottom">About</a></li>
-								<li><a href="plans.html" class="hvr-sweep-to-bottom">Plans</a></li>
+								<li class="active"><a href="index.html">Inicio</a></li>
+								<li><a href="about.html" class="hvr-sweep-to-bottom">Acerca de</a></li>
+								<li><a href="plans.html" class="hvr-sweep-to-bottom">Planes</a></li>
 								<li><a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Persona<span class="caret"></span></a>
 									<ul class="dropdown-menu">
 										<li><a class="hvr-sweep-to-bottom" href="personaCrear.htm">Crear</a></li>
@@ -115,8 +115,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<img src="images/3a.jpg" alt="Slider 1" />
 						</div>
 						<div class="col-md-6 content">
-							<h3>Hosting <span>City</span></h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed efficitur velit ac fringilla fermentum. Nulla sodales, magna eget pharetra feugiat, tellus metus lacinia nunc, nec vulputate purus nisl nec tortor. Mauris sem diam, interdum a euismod vitae, viverra non sapien. </p>
+							<h3>Vehialpes <span>Vehículos</span></h3>
+							<p>Vehialpes es una empresa dedicada a la importación y comecialización de vehículos y repuestos a nivel nacional con más de 50 años de experiencia en el campo y provee un total de 50 vitrinas en todo el país.</p>
 						</div>
 						<div class="clearfix"> </div>
 				  </div>
@@ -125,8 +125,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<img src="images/1a.jpg" alt="Slider 1" />
 						</div>
 						<div class="col-md-6 content">
-							<h3>Personal <span>Hosting</span></h3>
-							<p>Donec sagittis, dui sed lobortis convallis, ante eros auctor leo, vel commodo lacus nisl vitae velit. Nulla facilisi. Integer vehicula porta urna, id lacinia nisl semper vel. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </p>
+							<h3>nuevo<span> diseño</span></h3>
+							<p>Con el nuevo vehículo X, disfruta de su innovación a bordo: el sistema de entretenimiento MEDIA NAV 2.0 con pantalla táctil de 7", computador a bordo, sensor de reversa, el GSI, entre otros. </p>
 						</div>
 						<div class="clearfix"> </div>
 				  </div>
@@ -135,8 +135,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<img src="images/2a.jpg" alt="Slider 1" />
 						</div>
 						<div class="col-md-6 content">
-							<h3>Shared <span>Hosting</span></h3>
-							<p>Aliquam at efficitur odio, et commodo odio. Nulla est lectus, tristique sit amet lorem at, porttitor dapibus nisi. Quisque bibendum sem ut ex pharetra sagittis. Vestibulum eu sapien non purus interdum tempus. Aenean varius elit sit amet lorem ultrices, at iaculis velit sodales. </p>
+							<h3>Comodidad<span>y confort</span></h3>
+							<p>Da la bienvenida a tus pasajeros a bordo de tu nuevo vehículo. Compacto pero espacioso: el espacio interior ha sido optimizado para brindarte aún más comodidad.</p>
 						</div>
 						<div class="clearfix"> </div>
 				  </div>
@@ -195,7 +195,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="banner-bottom">
 		<div class="container">
 			<div class="w3-banner-bottom-heading">
-				<h3>What <span>We Do?</span></h3>
+				<h3>nuestros <span>beneficios</span></h3>
 			</div>
 			<div class="agileits-banner-bottom">
 				<div class="col-md-3 agileits-banner-bottom-grid">
@@ -206,9 +206,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div class="services-grid-left agile-services-grid-left">
-							<h4>repreh qui in ea voluptate</h4>
-							<p>Itaque earum rerum hic tenetur a sapiente 
-							delectus, ut aut reiciendis voluptatibus maiores alias</p>
+							<h4>prueba de manejo</h4>
+							<p>agenda una prueba de manejo en nuestras instalaciones.</p>
 						</div>
 					</div>
 				</div>
@@ -220,9 +219,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div class="services-grid-left agile-services-grid-left">
-							<h4>repreh qui in ea voluptate</h4>
-							<p>Itaque earum rerum hic tenetur a sapiente 
-							delectus, ut aut reiciendis voluptatibus maiores alias</p>
+							<h4>Financia tu vehículo</h4>
+							<p>estrenar vehículo es fácil con créditos Vehialpes 
+							hasta 5 años de plazo sin cuota inicial</p>
 						</div>
 					</div>
 				</div>
@@ -234,9 +233,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div class="services-grid-left agile-services-grid-left">
-							<h4>repreh qui in ea voluptate</h4>
-							<p>Itaque earum rerum hic tenetur a sapiente 
-							delectus, ut aut reiciendis voluptatibus maiores alias</p>
+							<h4>Postventa</h4>
+							<p>sientete respaldado y con la certeza de contar con el mejor servicio mientras cuidas tu vehículo.</p>
 						</div>
 					</div>
 				</div>
@@ -248,9 +246,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							</div>
 						</div>
 						<div class="services-grid-left agile-services-grid-left">
-							<h4>repreh qui in ea voluptate</h4>
-							<p>Itaque earum rerum hic tenetur a sapiente 
-							delectus, ut aut reiciendis voluptatibus maiores alias</p>
+							<h4>garantía</h4>
+							<p>Vehialpes cuenta con 18 talleres especializados y 35 concesionarios por todo el país.</p>
 						</div>
 					</div>
 				</div>
@@ -406,7 +403,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="w3-agileits-choose">
 					<div class="col-md-6 choose-grid">
 						<div class="w3-banner-bottom-heading choose-heading">
-							<h3>Why Choose<span> Us?</span></h3>
+							<h3>¿ por qué <span>elegirnos ?</span></h3>
 						</div>
 						<div class="top-choose-info">
 							<div class="choose-info-top">
@@ -414,7 +411,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="choose-info-grid ">
 										<ul>
 											<li><i class="fa fa-bell" aria-hidden="true"></i></li>
-											<li>Lorem ipsum</li>
+											<li>confianza</li>
 										</ul>
 									</div>
 								</div>
@@ -422,7 +419,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="choose-info-grid ">
 										<ul>
 											<li><i class="fa fa-cog" aria-hidden="true"></i></li>
-											<li>Nulla dictum</li>
+											<li>experiencia</li>
 										</ul>
 									</div>
 								</div>
@@ -433,7 +430,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="choose-info-grid ">
 										<ul>
 											<li><i class="fa fa-comments" aria-hidden="true"></i></li>
-											<li>Lorem ipsum</li>
+											<li>garantía</li>
 										</ul>
 									</div>
 								</div>
@@ -441,7 +438,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="choose-info-grid ">
 										<ul>
 											<li><i class="fa fa-user" aria-hidden="true"></i></li>
-											<li>Nulla dictum</li>
+											<li>seguridad</li>
 										</ul>
 									</div>
 								</div>
@@ -452,7 +449,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="choose-info-grid ">
 										<ul>
 											<li><i class="fa fa-money" aria-hidden="true"></i></li>
-											<li>Lorem ipsum</li>
+											<li>integridad</li>
 										</ul>
 									</div>
 								</div>
@@ -460,7 +457,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<div class="choose-info-grid ">
 										<ul>
 											<li><i class="fa fa-thumbs-o-up" aria-hidden="true"></i></li>
-											<li>Nulla dictum</li>
+											<li>calidad</li>
 										</ul>
 									</div>
 								</div>
@@ -470,7 +467,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="col-md-6 choose-grid">
 						<div class="w3-banner-bottom-heading choose-heading">
-							<h3>What People<span> say's?</span></h3>
+							<h3>¿ que dicen nuestros <span>clientes?</span></h3>
 						</div>
 						<div class="top-choose-info testimonial-info">
 							<div class="wthree-testimonial-grid">
@@ -480,15 +477,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 													<li>
 														<div class="testimonial-top">
 															<i class="fa fa-quote-right" aria-hidden="true"></i>
-															<p>Donec feugiat tellus sem, laoreet iaculis orci lobortis vel. Sed sed luctus orci, at lacinia risus. Ut porttitor ante ac tincidunt elementum. Curabitur ex dolor, condimentum vitae nunc vel, pulvinar semper justo. Vestibulum et aliquet magna, maximus dapibus enim.</p>
-															<h5>John Smith <span>- Customer</span></h5>
+															<p>Muy buena relación calidad/precio</p>
+															<h5>John Smith <span>- cliente</span></h5>
 														</div>
 													</li>
 													<li>
 														<div class="testimonial-top">
 															<i class="fa fa-quote-right" aria-hidden="true"></i>
-															<p>Pellentesque urna ex, ultricies a nunc at, pretium maximus nisi. Vestibulum non auctor diam. Mauris eget consectetur mauris. Aenean leo elit, accumsan vel elit vitae, mattis ultricies lacus. Cras consectetur justo lorem, sed dictum sapien eleifend at.Donec sed </p>
-															<h5>Divide Rule <span>- Customer</span></h5>
+															<p>muy buena atención y facilidades de pago, además de alto respaldo 24/7</p>
+															<h5>Divide Rule <span>- cliente</span></h5>
 														</div>
 													</li>
 												</ul>
@@ -529,12 +526,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="subscribe">
 		<div class="container">
 			<div class="w3-banner-bottom-heading">
-				<h3>Subscribe<span> with Us</span></h3>
+				<h3>Suscribete<span> a nosotros</span></h3>
 			</div>
 			<div class="w3-agile-subscribe-form">
 				<form action="#" method="post">
 					<input type="text" placeholder="Email" name="Email" required="">
-					<button class="btn1">Subscribe</button>
+					<button class="btn1">Suscribete</button>
 				</form>
 			</div>
 		</div>
@@ -545,20 +542,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile-footer-grids">
 				<div class="col-md-4 agile-footer-grid">
-					<h4>History of <span>Hosting</span></h4>
-					<p>Pellentesque urna ex, ultricies a nunc at, pretium maximus nisi. Vestibulum non auctor diam. Mauris eget consectetur mauris. <span>Aenean leo elit, accumsan vel elit vitae, mattis ultricies lacus. Cras consectetur justo lorem, sed dictum sapien eleifend at.</span></p>
+					<h4>contexto <span>de vehialpes</span></h4>
+					<p>El esquema de proceso de negocios de vehialpes está concentrado en 2 grandes procesos de negocio: la importación/venta de vehículos de la marca X y un servicios postventa.</span></p>
 				</div>
 				<div class="col-md-4 agile-footer-grid">
-					<h4>Twitter <span>Posts</span></h4>
+					<h4>publicaciones en <span>Twitter</span></h4>
 					<ul class="w3agile_footer_grid_list">
-						<li>Ut aut reiciendis voluptatibus maiores <a href="#">http://example.com</a> alias, ut aut reiciendis.
-							<span><i class="fa fa-twitter" aria-hidden="true"></i> 02 days ago</span></li>
-						<li>Itaque earum rerum hic tenetur a sapiente delectus <a href="#">http://example.com</a> ut aut
-							voluptatibus.<span><i class="fa fa-twitter" aria-hidden="true"></i> 03 days ago</span></li>
+						<li>vehialpes vende alrededor de 12.000 vehículos por año <a href="#">http://example.com.</a>.
+							<span><i class="fa fa-twitter" aria-hidden="true"></i> Hace 2 días</span></li>
+						<li>vehialpes importa una marca de vehículos X tipo (4x2) y SUVs (4x4) <a href="#">http://example.com</a>
+							<span><i class="fa fa-twitter" aria-hidden="true"></i> Hace 3 días</span></li>
 					</ul>
 				</div>
 				<div class="col-md-4 agile-footer-grid">
-					<h4>Popular <span>Posts</span></h4>
+					<h4>publicaciones <span>populares</span></h4>
 					<div class="popular-grids">
 						<div class="popular-grid">
 							<a href="#"><img src="images/6.jpg" alt=""></a>
