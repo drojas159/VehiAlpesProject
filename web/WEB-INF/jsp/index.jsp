@@ -555,7 +555,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</ul>
 				</div>
 				<div class="col-md-4 agile-footer-grid">
-					<h4>publicaciones <span>populares</span></h4>
+					<h4>publicaciones <span>populares.</span></h4>
 					<div class="popular-grids">
 						<div class="popular-grid">
 							<a href="#"><img src="images/6.jpg" alt=""></a>
