@@ -96,6 +96,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<li><a class="hvr-sweep-to-bottom" href="personaEditar.htm">Editar</a></li>
 									</ul>
 								</li>
+                                                                <!-- NUEVO MENU-->
+                                                                <li><a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Vehículo<span class="caret"></span></a>
+									<ul class="dropdown-menu">
+										<li><a class="hvr-sweep-to-bottom" href="vehiculoCrear.htm">registrar vehículo</a></li>
+										<li><a class="hvr-sweep-to-bottom" href="personaConsultar.htm">Consultar vehículo</a></li>
+									</ul>
+								</li>
+                                                                <!-- FIN NUEVO MENU -->
 								<li><a href="blog.html" class="hvr-sweep-to-bottom">Blog</a></li>
 								<li><a href="mail.html" class="hvr-sweep-to-bottom">Mail Us</a></li>
 							</ul>

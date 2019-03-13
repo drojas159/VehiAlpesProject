@@ -93,10 +93,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<li><a class="hvr-sweep-to-bottom" href="personaEditar.htm">Editar</a></li>
 									</ul>
 								</li>
-                                                                                                                                <!-- NUEVO MENU-->
+                                                                               <!-- NUEVO MENU-->
                                                                 <li><a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Vehículo<span class="caret"></span></a>
 									<ul class="dropdown-menu">
-										<li><a class="hvr-sweep-to-bottom" href="vehiculo_crear.htm">registrar vehículo</a></li>
+										<li><a class="hvr-sweep-to-bottom" href="vehiculoCrear.htm">registrar vehículo</a></li>
 										<li><a class="hvr-sweep-to-bottom" href="personaConsultar.htm">Consultar vehículo</a></li>
 									</ul>
 								</li>
@@ -122,7 +122,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<h3>:: Registro ::</h3>
 				
 				<div class="login-form">
-					<form action="personaRegistrar.htm" method="post">
+					<form action="vehiculoCrear.htm" method="post">
                                             <input type="text" name="identificacion" placeholder="Identificación" required>
                                             <input type="text" name="nombre1" placeholder="Nombre 1" required>
                                             <input type="text" name="nombre2" placeholder="Nombre 2" required>
@@ -235,3 +235,4 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!-- //here ends scrolling icon -->
 </body>	
 </html>
+

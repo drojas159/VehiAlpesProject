@@ -5,7 +5,8 @@
  */
 package co.edu.uniminuto.pa.bds;
 
-import com.mysql.cj.jdbc.MysqlDataSource;
+//import com.mysql.cj.jdbc.MysqlDataSource;
+import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
 import java.sql.*;
 import javax.sql.*;
 public class Test_MySqlDataSource {
